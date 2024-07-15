@@ -13,7 +13,7 @@ export default function Layout({ children, title }: Props) {
       <Head>
         <title>{updatedTitle}</title>
       </Head>
-      <div className="flex min-h-screen flex-col items-center bg-green-400">
+      <div className="flex min-h-screen flex-col items-center bg-white">
         <main className="flex w-full max-w-5xl flex-1 flex-row items-start justify-center">
           <div className="sticky top-0 hidden sm:flex">
             <SideNav />
