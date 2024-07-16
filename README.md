@@ -1,2 +1,1 @@
-# trading-journal
-Prototype for a personal trading journal
+## Portfolio for Muhammad Suhail
